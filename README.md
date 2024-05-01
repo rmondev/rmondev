@@ -1,15 +1,15 @@
 ![MasterHead](https://github.com/rmondev/rmondev/blob/main/soft_devlop2.png?raw=true)
 <h1 align="center">Hi 👋, I'm Riccardo Moncada</h1>
-<h3 align="center">I am a dedicated and enthusiastic computer programming student with a passion for creating innovative solutions in the world of technology. My journey in the digital realm has led me to a profound interest in mobile app development, specifically on iOS and Android platforms.</h3>
+<h3 align="center">I am a dedicated and enthusiastic computer programming with a passion for creating innovative solutions in the world of technology. My journey in the digital realm has led me to a profound interest in mobile and web app development.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 - 🔭 I’m currently working on **a mobile travel journal app.**
 
-- 🌱 I’m currently learning **Swift, Parallel Computing and Software Development for Robotics Using ROS**
+- 🌱 I’m currently learning **React, Swift and Kotlin**
 
-- 💬 Ask me about **C, C++, Java and React**
+- 💬 Ask me about **C++, Java and React**
 
-- 📫 How to reach me **rmondev@gmail.com**
+- 📫 How to reach me **contact@rmon.dev**
 
 - ⚡ Fun fact **I was a professional chef in a past life.**
 

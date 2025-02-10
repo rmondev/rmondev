@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on **a mobile travel journal app.**
 
-- 🌱 I’m currently learning **React, Swift and Kotlin**
+- 🌱 I’m currently learning **React, React Native, OfficeJS**
 
 - 💬 Ask me about **C++, Java and React**
 
 - 📫 How to reach me **contact@rmon.dev**
-
-- ⚡ Fun fact **I was a professional chef in a past life.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

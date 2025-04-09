@@ -1,15 +1,15 @@
 ![MasterHead](https://github.com/rmondev/rmondev/blob/main/soft_devlop2.png?raw=true)
+
 <h1 align="center">Hi 👋, I'm Riccardo Moncada</h1>
-<h3 align="center">I am a dedicated and enthusiastic computer programming with a passion for creating innovative solutions in the world of technology. My journey in the digital realm has led me to a profound interest in mobile and web app development.</h3>
+<h3 align="center">I'm a dedicated and enthusiastic computer programmer with a passion for crafting innovative solutions in technology. My journey in the digital world has led me to a strong interest in mobile and web app development.</h3>
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-- 🔭 I’m currently working on **a mobile travel journal app.**
+- 🔭 I’m currently working on **a mobile travel journal app**
+- 🌱 I’m currently learning **React, React Native, and OfficeJS**
+- 💬 Ask me about **C++, Java, or React**
+- 📫 Reach me at **contact@rmon.dev**
 
-- 🌱 I’m currently learning **React, React Native, OfficeJS**
-
-- 💬 Ask me about **C++, Java and React**
-
-- 📫 How to reach me **contact@rmon.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,11 +23,21 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rmondev" alt="rmondev" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rmondev&theme=dracula" alt="rmondev trophies"/>
+  </a>
+</p>
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmondev&show_icons=true&bg_color=000000&locale=en&layout=compact" alt="Top Langs" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmondev&show_icons=true&bg_color=000000&locale=en&layout=compact" alt="rmondev" /></p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rmondev&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rmondev&show_icons=true&locale=en" alt="rmondev" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmondev&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmondev&" alt="rmondev" /></p>
